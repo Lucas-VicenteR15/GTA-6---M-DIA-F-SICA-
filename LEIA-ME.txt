@@ -1,0 +1,17 @@
+GTA VI — Contagem para a entrega física (Premium 2.0)
+
+Abra index.html no navegador. Funciona sem instalação e sem internet.
+
+ARTE OFICIAL OPCIONAL:
+1. Acesse https://www.rockstargames.com/VI/media/artwork-wallpapers
+2. Baixe uma imagem oficial de GTA VI para uso pessoal.
+3. Converta-a para WebP, preferencialmente 1600px de largura e menos de 350 KB.
+4. Salve como assets/gta6-oficial.webp (exatamente esse nome).
+5. Reabra o site. A imagem aparecerá automaticamente ao fundo.
+
+Sem a imagem, o site exibe uma paisagem neon original, criada em CSS.
+
+Para abrir no celular usando um link, publique os arquivos em GitHub Pages ou Netlify.
+O botão de compartilhar fica mais útil após a publicação.
+A contagem começa em 27/10/2026, e usa fuso fixo UTC-3 (Brasília).
+O horário alvo é 00:00 do dia selecionado, não uma promessa de horário de entrega.
